@@ -6,10 +6,6 @@
 
 <h1 align="center">Stats</h1>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nahidraz23&theme=carbonfox&border_radius=5" alt="GitHub Streak" />
-</p>
-
 ###
 
 <h1 align="center">Language</h1>
@@ -69,7 +65,15 @@
 
 ###
 
-<h3 align="center">Profile Viewed</h3>
+<h1 align="left">Current Overview</h1>
+
+###
+
+<p align="left">- 👀 I’m interested in learning new technologies<br>- 🌱 I’m currently learning NextJS</p>
+
+###
+
+<h1 align="center">Profile Viewed</h1>
 
 ###
 
@@ -78,9 +82,3 @@
 </div>
 
 ###
-
-
-- 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning NextJS
-- 📫 How to reach me - contact.nzamanraz@gmail.com
-
