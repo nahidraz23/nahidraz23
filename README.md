@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nahidraz23&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nahidraz23&theme=dark&hide_border=true" width="400">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nahidraz23&theme=carbonfox&border_radius=5" alt="GitHub Streak" /></a>
 </p>
 
 
