@@ -4,16 +4,6 @@
 
 ###
 
-<h3 align="center">Profile Viewed</h3>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nahidraz23/count.svg?"  />
-</div>
-
-###
-
 <h1 align="center">Stats</h1>
 
 <p align="center">
@@ -79,10 +69,18 @@
 
 ###
 
+<h3 align="center">Profile Viewed</h3>
 
-- 👋 Hi, I’m Nahid Raz
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/nahidraz23/count.svg?"  />
+</div>
+
+###
+
+
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning C++ for contest programming
-- 💞️ I’m looking to collaborate on various git repositories
+- 🌱 I’m currently learning NextJS
 - 📫 How to reach me - contact.nzamanraz@gmail.com
 
