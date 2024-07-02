@@ -72,13 +72,3 @@
 <p align="left">- 👀 I’m interested in learning new technologies<br>- 🌱 I’m currently learning NextJS</p>
 
 ###
-
-<h1 align="center">Profile Viewed</h1>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nahidraz23/count.svg?"  />
-</div>
-
-###
