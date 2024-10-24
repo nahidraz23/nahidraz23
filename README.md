@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/nahidraz23/nahidraz23/blob/main/GitHub_BG.svg" />
+  ![Lottie Animation](GHub_BG.mp4)
 </div>
 
 ###
