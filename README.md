@@ -1,5 +1,5 @@
 <div align="center">
-  ![Lottie Animation](GHub_BG.mp4)
+  ![Lottie Animation](/GHub_BG.mp4)
 </div>
 
 ###
