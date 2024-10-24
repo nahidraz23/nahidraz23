@@ -1,4 +1,4 @@
-<img src="https://github.com/nahidraz23/nahidraz23/blob/main/cover.png"/>
+<img src="https://github.com/nahidraz23/nahidraz23/blob/main/cover.png" />
 
 <h1 align="center">Stats</h1>
 <div align="center">
