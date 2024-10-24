@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/nahidraz23/nahidraz23/cover.png"/>
+<img src="[https://github.com/nahidraz23/nahidraz23/cover.png](https://github.com/nahidraz23/nahidraz23/blob/main/cover.png)"/>
 </div>
 
 ###
