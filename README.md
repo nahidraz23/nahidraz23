@@ -1,5 +1,5 @@
 <div align="center">
-  <iframe src="https://lottie.host/embed/6861b1de-9b1d-454b-ae8a-7e75f99eb16f/mRQC7YpLJF.json"></iframe>
+  <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
 </div>
 
 ###
