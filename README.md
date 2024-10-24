@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://lottie.host/embed/6861b1de-9b1d-454b-ae8a-7e75f99eb16f/mRQC7YpLJF.json"  />
+  <img src="https://lottie.host/6861b1de-9b1d-454b-ae8a-7e75f99eb16f/mRQC7YpLJF.json"  />
 </div>
 
 ###
