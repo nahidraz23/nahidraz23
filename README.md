@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nahidraz23/nahidraz23/main/GitHub_BG.svg />
+  <img src="https://github.com/nahidraz23/nahidraz23/GitHub_BG.svg />
 </div>
 
 ###
