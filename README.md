@@ -2,7 +2,7 @@
 
 <h1 align="center">Stats</h1>
 <div align="center">
-   <a><img src="https://github-readme-streak-stats.herokuapp.com?user=nahidraz23&theme=black-ice&hide_border=true" alt="GitHub Streak" /></a>
+   <a><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=nahidraz23&theme=radical" alt="GitHub Streak" /></a>
 </div>
 
 ###
