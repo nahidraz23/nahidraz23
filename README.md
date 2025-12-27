@@ -2,7 +2,7 @@
 
 <h1 align="center">Stats</h1>
 <div align="center">
-   <a><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=nahidraz23&theme=radical" alt="GitHub Streak" /></a>
+   <a><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=nahidraz23&theme=radical" border-style="none" alt="GitHub Streak" /></a>
 </div>
 
 ###
