@@ -10,75 +10,80 @@
 <h1 align="center">Language</h1>
 
 ###
-
-<div align="center">
-   <!--
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="express logo"  />
-   -->
-</div>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <a>
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
   </a>
 </p>
 
 ###
 
-<h1 align="center">Tools</h1>
+<h1 align="center">Frontend</h1>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
-
-<h1 align="center">Social</h1>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nahidraz23/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,redux,nextjs" />
   </a>
-  <a href="https://x.com/nahidraz23" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+</p>
+
+###
+
+<h1 align="center">Backend</h1>
+
+###
+
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
   </a>
-</div>
+</p>
 
 ###
 
-<h1 align="left">Current Overview</h1>
+<h1 align="center">Database</h1>
 
 ###
 
-<p align="left">- 👀 I’m interested in learning new technologies<br>- 🌱 I’m currently learning NextJS</p>
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+</p>
 
 ###
+
+<h1 align="center">CMS</h1>
+
+###
+
+<p align="center">
+  <a>
+   <img src="https://skillicons.dev/icons?i=wordpress,webflow" />
+  </a>
+</p>
+
+###
+
+<h1 align="center">Tools and Deployment</h1>
+
+###
+
+<p align="center">
+  <a>
+   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,vercel,netlify,firebase,figma&theme=light,arduino" />
+  </a>
+</p>
+
+###
+
+<h1 align="center">Operating System</h1>
+
+###
+
+<p align="center">
+  <a>
+   <img src="https://skillicons.dev/icons?i=linux, ubuntu, windows" />
+  </a>
+</p>
