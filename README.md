@@ -48,7 +48,7 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
 
