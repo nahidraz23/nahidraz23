@@ -72,7 +72,7 @@
 
 <p align="center">
   <a>
-   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,vercel,netlify,firebase,figma&theme=light,arduino" />
+   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,vercel,netlify,firebase,figma,arduino" />
   </a>
 </p>
 
@@ -84,6 +84,6 @@
 
 <p align="center">
   <a>
-   <img src="https://skillicons.dev/icons?i=linux, ubuntu, windows" />
+   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
   </a>
 </p>
